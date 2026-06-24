@@ -34,41 +34,6 @@ Static and dynamic analysis of malicious software including ransomware, trojans,
 
 ---
 
-
-**Tech Stack:** `Terraform` `AWS` `Azure` `Ansible` `Kubernetes` `Helm` `GitHub Actions` `OPA` `Checkov` `tfsec`
-
----
-
-### 5. Static Malware Analysis & Reverse Engineering Toolkit
-> Malware Analysis · Cybersecurity
-
-A curated and automated toolkit for performing rapid static analysis of PE (Portable Executable) files, scripts, and office documents. Produces structured analysis reports with embedded IoCs, strings of interest, and packer detection results.
-
-**Key Highlights:**
-- Automated PE header analysis, import/export table parsing, and entropy visualization
-- YARA rule scanning with custom rule library for APT detection
-- Obfuscated script deobfuscation for PowerShell, VBScript, and JavaScript payloads
-- Integration with VirusTotal and MalwareBazaar APIs for hash reputation checks
-
-**Tech Stack:** `Python` `Ghidra` `Radare2` `YARA` `pefile` `oletools` `VirusTotal API` `CyberChef` `FLOSS`
-
----
-
-### 6. LLM-Integrated Security Awareness Automation Platform
-> AI Automation · Cybersecurity
-
-An AI-driven platform that automates the creation, delivery, and assessment of security awareness training content. Generates role-specific phishing simulations and training modules, tracks employee engagement, and produces executive risk dashboards.
-
-**Key Highlights:**
-- LLM-generated phishing email simulations with role-based targeting
-- Automated training module generation from CVE and threat intelligence feeds
-- Employee risk scoring dashboard with trend analytics
-- Integration with Microsoft 365 and Google Workspace for campaign delivery
-
-**Tech Stack:** `Python` `OpenAI API` `FastAPI` `React` `PostgreSQL` `Docker` `Microsoft Graph API` `Stripe` `Chart.js`
-
----
-
 ## Technology Stack
 
 ### Cloud Platforms & Infrastructure
