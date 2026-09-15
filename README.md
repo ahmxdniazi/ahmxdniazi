@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20AI%20Automation%20%7C%20Cybersecurity%20%7C%20Malware%20Analysis&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,35:1B2A4A,70:00415A,100:00C2A8&height=220&section=header&text=Muhammad%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%7C%20AI%20Automation%20%7C%20Cybersecurity%20%7C%20Malware%20Analysis&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -122,27 +122,23 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmxdniazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=ahmxdniazi&theme=tokyonight&hide_border=true" width="49%"/>
+![Followers](https://img.shields.io/github/followers/ahmxdniazi?style=for-the-badge&logo=github&color=00C2A8&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmxdniazi&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00C2A8&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmxdniazi&style=for-the-badge&color=00C2A8&label=PROFILE+VIEWS)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxdniazi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmxdniazi&theme=tokyo-night&hide_border=true" width="49%"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-### 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmxdniazi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&cache_seconds=1800" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmxdniazi/ahmxdniazi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmxdniazi/ahmxdniazi/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ahmxdniazi/ahmxdniazi/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
-
-> 📌 *GitHub renders the cards above via GitHub's own image proxy. They occasionally take a few seconds — or a page refresh — to load the first time, since the underlying stat services are shared across millions of profiles.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -171,22 +167,6 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🏅 Achievements
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/ahmxdniazi?style=for-the-badge&logo=github&color=58A6FF&label=Followers)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmxdniazi&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=58A6FF&logo=github)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Security Research](https://img.shields.io/badge/Security-Researcher-D93F0B?style=for-the-badge&logo=hackaday&logoColor=white)
-![Cloud Builder](https://img.shields.io/badge/Cloud-Builder-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Automation First](https://img.shields.io/badge/Automation-First-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-FFB300?style=for-the-badge&logo=bookstack&logoColor=white)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <div align="center">
 
 ### 🤝 Let's Connect
@@ -198,6 +178,6 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,35:00415A,70:1B2A4A,100:0A0E27&height=100&section=footer" width="100%"/>
 
 </div>
