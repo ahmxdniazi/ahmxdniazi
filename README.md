@@ -1,132 +1,199 @@
 <div align="center">
 
-# Muhammad Ahmad
-### Cloud Engineer · Cybersecurity Analyst · AI Automation Engineer · Malware Analyst
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20AI%20Automation%20%7C%20Cybersecurity%20%7C%20Malware%20Analysis&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ahmvdnzi/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineer;AI+Automation+Engineer;Cybersecurity+Analyst;Malware+Analysis+%26+Reverse+Engineering;Building+Secure%2C+Automated+Systems&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmvdnzi/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ahmad.cybersec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ahmxdniazi)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmxdniazi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/ahmxdniazi)
 
 </div>
 
----
+<br/>
 
-## About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-I am a multi-disciplinary technology professional specializing in **Cloud Infrastructure Engineering**, **Cybersecurity Operations**, **AI-Driven Automation**, and **Malware Analysis**. My work bridges the gap between scalable cloud architecture and advanced security practices, enabling organizations to operate securely, efficiently, and intelligently in modern threat landscapes.
+## 🧭 About Me
 
-I design and deploy resilient cloud environments, engineer automated pipelines powered by artificial intelligence, and conduct in-depth analysis of malicious software to understand, contain, and mitigate cyber threats. My approach is methodical, research-oriented, and grounded in industry best practices.
+I am a multi-disciplinary technology professional specializing in **Cloud & DevOps Engineering**, **AI-Driven Automation**, **Cybersecurity Operations**, and **Malware Analysis**. My work bridges scalable cloud architecture with intelligent automation and advanced security practices — helping organizations run infrastructure that is resilient, self-optimizing, and secure by design.
 
----
+I design cloud-native systems, build agentic and LLM-powered automation pipelines, harden environments against real-world threats, and reverse-engineer malicious software to produce actionable intelligence. Every system I ship is built with the same standard: **automated, observable, and secure by default.**
 
-## Core Domains
+```yaml
+engineer:
+  name: "Muhammad Ahmad"
+  focus: ["Cloud Infrastructure", "AI Automation", "Cybersecurity", "Malware Analysis"]
+  philosophy: "Security and automation are not trade-offs — they are force multipliers."
+  currently_building: "Agentic pipelines that monitor, defend, and self-heal cloud environments"
+  open_to: ["Cloud Security roles", "AI Automation projects", "Threat Research collaboration"]
+```
 
-### ☁️ Cloud Engineering
-Design, deployment, and management of scalable, highly available, and cost-optimized cloud infrastructure across leading platforms. Experience spans Infrastructure-as-Code, containerization, CI/CD pipelines, cloud networking, and multi-cloud architecture.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### 🔐 Cybersecurity
-Comprehensive security operations including threat modeling, penetration testing, vulnerability assessment, incident response, and security architecture design. Proficient in both offensive and defensive security methodologies aligned with NIST, MITRE ATT&CK, and CIS frameworks.
+## ⚙️ Core Domains
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps Engineering
+Design, deployment, and management of scalable, highly available, cost-optimized cloud infrastructure. Infrastructure-as-Code, containerization, CI/CD pipelines, cloud networking, and multi-cloud architecture across AWS and Azure.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AI Automation
-Development of intelligent automation systems leveraging large language models, machine learning pipelines, and agentic frameworks. Applications include security workflow automation, threat intelligence enrichment, and data-driven decision support systems.
+Development of intelligent automation systems using LLMs, agentic frameworks, and RAG pipelines. Applications in security workflow automation, threat intelligence enrichment, and autonomous decision support.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity & IAM
+Security operations spanning threat modeling, penetration testing, vulnerability assessment, and identity governance (Entra ID, Okta). Aligned with NIST, MITRE ATT&CK, and CIS frameworks.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🦠 Malware Analysis
-Static and dynamic analysis of malicious software including ransomware, trojans, rootkits, and advanced persistent threat (APT) tooling. Proficient in reverse engineering, behavioral analysis, and producing actionable Indicators of Compromise (IoCs).
+Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse engineering, behavioral analysis, and production of actionable Indicators of Compromise (IOCs).
 
----
+</td>
+</tr>
+</table>
 
-## Technology Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### Cloud Platforms & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+## 🛠️ Technology Stack
 
-### Cybersecurity Tools & Frameworks
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=flat-square&logoColor=white)
+<div align="center">
 
-### Malware Analysis & Reverse Engineering
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4A90D9?style=flat-square&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-FFB300?style=flat-square&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-6A1B9A?style=flat-square&logoColor=white)
-![Cuckoo](https://img.shields.io/badge/Cuckoo_Sandbox-F9A825?style=flat-square&logoColor=white)
-![Radare2](https://img.shields.io/badge/Radare2-333333?style=flat-square&logoColor=white)
+**Cloud Platforms & Infrastructure**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### AI, ML & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+**Identity, Security & DevSecOps**
+<br/>
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
 
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+**Malware Analysis & Reverse Engineering**
+<br/>
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4A90D9?style=for-the-badge&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-FFB300?style=for-the-badge&logoColor=black)
+![Volatility](https://img.shields.io/badge/Volatility-6A1B9A?style=for-the-badge&logoColor=white)
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+**AI, Automation & Programming**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### DevSecOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-1EA7FF?style=flat-square&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logoColor=white)
+**Databases & Messaging**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
----
+</div>
 
-## Certifications & Frameworks
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmxdniazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmxdniazi&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxdniazi&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmxdniazi&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmxdniazi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🧩 Certifications & Frameworks
 
 | Domain | Frameworks & Standards |
 |---|---|
-| Cloud Security | CIS Benchmarks · AWS Well-Architected Framework · Azure Security Benchmark |
-| Cybersecurity | MITRE ATT&CK · NIST CSF · OWASP Top 10 · ISO/IEC 27001 |
-| Malware Analysis | STIX/TAXII · OpenIOC · MalwareBazaar · VirusTotal Intelligence |
-| AI & Automation | LLM Orchestration · RAG Pipelines · Agentic AI Frameworks |
+| ☁️ Cloud & Security | CIS Benchmarks · AWS Well-Architected Framework · Azure Security Benchmark |
+| 🛡️ Cybersecurity | MITRE ATT&CK · NIST CSF · OWASP Top 10 · ISO/IEC 27001 |
+| 🦠 Malware Analysis | STIX/TAXII · OpenIOC · MalwareBazaar · VirusTotal Intelligence |
+| 🤖 AI & Automation | LLM Orchestration · RAG Pipelines · Agentic AI Frameworks · n8n Workflows |
+| 🔑 Identity & Access | Microsoft Entra ID · Okta SSO/MFA · Conditional Access · SAML/OAuth2 |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## GitHub Statistics
+## 🚀 Featured Work
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmxdniazi&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxdniazi&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/ahmxdniazi/entra-id-iam-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=entra-id-iam-automation&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ahmxdniazi/aws-secure-vpc-waf-network-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=aws-secure-vpc-waf-network-firewall&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ahmxdniazi/wazuh-siem-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=wazuh-siem-project&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ahmxdniazi/ioc-threat-intel-mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=ioc-threat-intel-mapper&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ahmxdniazi/enterprise-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=enterprise-rag&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/ahmxdniazi/advanced-dynamic-malware-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=advanced-dynamic-malware-analysis&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## Professional Approach
+## 💡 Professional Approach
 
-I am committed to producing work that is **secure by design**, **automated where possible**, and **documented thoroughly**. My projects are built with production readiness in mind, emphasizing modularity, observability, and maintainability. I believe that security and engineering are not opposing forces but complementary disciplines that, when integrated early, produce superior outcomes.
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
----
+I am committed to producing work that is **secure by design**, **automated where possible**, and **documented thoroughly**. My projects are built with production readiness in mind — emphasizing modularity, observability, and maintainability. Security and engineering are not opposing forces but complementary disciplines that, when integrated early, produce superior outcomes.
 
 <div align="center">
 
-**Open to collaborations in Cloud Security, AI-Powered Security Tools, and Malware Research.**
+> *"Security is not a product, but a process."* — Bruce Schneier
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmxdniazi&style=flat-square&color=blue)](https://github.com/ahmxdniazi)
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+**Open to collaborations in Cloud Security, AI-Powered Automation, and Malware Research.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmvdnzi/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ahmad.cybersec@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
