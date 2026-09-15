@@ -21,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🧭 About Me
+## 👋 About Me
 
 I am a multi-disciplinary technology professional specializing in **Cloud & DevOps Engineering**, **AI-Driven Automation**, **Cybersecurity Operations**, and **Malware Analysis**. My work bridges scalable cloud architecture with intelligent automation and advanced security practices — helping organizations run infrastructure that is resilient, self-optimizing, and secure by design.
 
@@ -126,10 +126,10 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmxdniazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmxdniazi&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmxdniazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ahmxdniazi&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxdniazi&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxdniazi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmxdniazi&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
@@ -138,9 +138,11 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 ### 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmxdniazi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahmxdniazi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&cache_seconds=1800" width="100%"/>
 
 </div>
+
+> 📌 *GitHub renders the cards above via GitHub's own image proxy. They occasionally take a few seconds — or a page refresh — to load the first time, since the underlying stat services are shared across millions of profiles.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -158,26 +160,28 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 ## 🚀 Featured Work
 
-<div align="center">
-
-<a href="https://github.com/ahmxdniazi/entra-id-iam-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=entra-id-iam-automation&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ahmxdniazi/aws-secure-vpc-waf-network-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=aws-secure-vpc-waf-network-firewall&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ahmxdniazi/wazuh-siem-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=wazuh-siem-project&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ahmxdniazi/ioc-threat-intel-mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=ioc-threat-intel-mapper&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ahmxdniazi/enterprise-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=enterprise-rag&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ahmxdniazi/advanced-dynamic-malware-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmxdniazi&repo=advanced-dynamic-malware-analysis&theme=tokyonight&hide_border=true" /></a>
-
-</div>
+| Repository | Focus |
+|---|---|
+| [🔑 entra-id-iam-automation](https://github.com/ahmxdniazi/entra-id-iam-automation) | Identity & access automation for Microsoft Entra ID |
+| [🛡️ aws-secure-vpc-waf-network-firewall](https://github.com/ahmxdniazi/aws-secure-vpc-waf-network-firewall) | Hardened AWS network perimeter with WAF & Network Firewall |
+| [📡 wazuh-siem-project](https://github.com/ahmxdniazi/wazuh-siem-project) | SIEM deployment for threat detection & monitoring |
+| [🧬 ioc-threat-intel-mapper](https://github.com/ahmxdniazi/ioc-threat-intel-mapper) | Threat intelligence enrichment & IOC correlation |
+| [🤖 enterprise-rag](https://github.com/ahmxdniazi/enterprise-rag) | Retrieval-augmented generation pipeline for enterprise use |
+| [🦠 advanced-dynamic-malware-analysis](https://github.com/ahmxdniazi/advanced-dynamic-malware-analysis) | Dynamic analysis & behavioral profiling of malware samples |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 💡 Professional Approach
-
-I am committed to producing work that is **secure by design**, **automated where possible**, and **documented thoroughly**. My projects are built with production readiness in mind — emphasizing modularity, observability, and maintainability. Security and engineering are not opposing forces but complementary disciplines that, when integrated early, produce superior outcomes.
+## 🏅 Achievements
 
 <div align="center">
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+![Followers](https://img.shields.io/github/followers/ahmxdniazi?style=for-the-badge&logo=github&color=58A6FF&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmxdniazi&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=58A6FF&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Security Research](https://img.shields.io/badge/Security-Researcher-D93F0B?style=for-the-badge&logo=hackaday&logoColor=white)
+![Cloud Builder](https://img.shields.io/badge/Cloud-Builder-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Automation First](https://img.shields.io/badge/Automation-First-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-FFB300?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
