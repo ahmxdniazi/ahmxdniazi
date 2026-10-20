@@ -167,6 +167,20 @@ Static and dynamic analysis of ransomware, trojans, and APT tooling. Reverse eng
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+## 🗂️ Projects by Area
+
+| Area | Projects |
+|---|---|
+| 🔑 [Okta IAM](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-okta) | SAML SSO, MFA policies, group-based access, Org2Org provisioning, lifecycle management |
+| 🔐 [Microsoft Entra ID](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-entra) | Conditional Access, OAuth2 SSO, governance pipeline, IAM monitoring, Graph API automation |
+| ☁️ [AWS Security](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-aws-security) | Zero-trust IAM, KMS and Secrets Manager, VPC / WAF / Network Firewall |
+| 🤖 [Local AI & LLM](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-local-ai) | Hybrid-search RAG, local LLM API, Streamlit dashboard, GGUF quantization benchmarks |
+| 🧬 [Threat Intelligence](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-threat-intel) | STIX 2.1 pipelines, IOC enrichment, WannaCry CTI bundle, M365 reporting automation |
+| 🦠 [Malware & Reverse Engineering](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-malware-re) | Static and dynamic analysis, YARA, IDA Pro, ML-based PowerShell malware detection |
+| 📡 [Network & SOC Labs](https://github.com/ahmxdniazi?tab=repositories&q=topic%3Agroup-network-soc) | FortiGate, Wazuh SIEM, TCP/IP attack lab |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 <div align="center">
 
 ### 🤝 Let's Connect
